@@ -1,0 +1,377 @@
+{
+    "maps": [
+        {
+            "fileName": "room260.json",
+            "height": 128,
+            "width": 160,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "room261.json",
+            "height": 128,
+            "width": 160,
+            "x": 160,
+            "y": 0
+        },
+        {
+            "fileName": "room230.json",
+            "height": 128,
+            "width": 160,
+            "x": 160,
+            "y": 256
+        },
+        {
+            "fileName": "room231.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 128
+        },
+        {
+            "fileName": "room262.json",
+            "height": 128,
+            "width": 160,
+            "x": 800,
+            "y": 0
+        },
+        {
+            "fileName": "room263.json",
+            "height": 128,
+            "width": 160,
+            "x": 960,
+            "y": 0
+        },
+        {
+            "fileName": "room264.json",
+            "height": 128,
+            "width": 160,
+            "x": 640,
+            "y": 512
+        },
+        {
+            "fileName": "room265.json",
+            "height": 128,
+            "width": 160,
+            "x": 800,
+            "y": 512
+        },
+        {
+            "fileName": "room234.json",
+            "height": 128,
+            "width": 160,
+            "x": 160,
+            "y": 384
+        },
+        {
+            "fileName": "room235.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 256
+        },
+        {
+            "fileName": "room266.json",
+            "height": 128,
+            "width": 160,
+            "x": 800,
+            "y": 128
+        },
+        {
+            "fileName": "room267.json",
+            "height": 128,
+            "width": 160,
+            "x": 960,
+            "y": 128
+        },
+        {
+            "fileName": "room237.json",
+            "height": 128,
+            "width": 160,
+            "x": 1120,
+            "y": 0
+        },
+        {
+            "fileName": "room239.json",
+            "height": 128,
+            "width": 160,
+            "x": 800,
+            "y": 256
+        },
+        {
+            "fileName": "room23a.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 256
+        },
+        {
+            "fileName": "room23b.json",
+            "height": 128,
+            "width": 160,
+            "x": 160,
+            "y": 512
+        },
+        {
+            "fileName": "room23c.json",
+            "height": 128,
+            "width": 160,
+            "x": 960,
+            "y": 768
+        },
+        {
+            "fileName": "room23d.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 0
+        },
+        {
+            "fileName": "room23e.json",
+            "height": 128,
+            "width": 160,
+            "x": 640,
+            "y": 128
+        },
+        {
+            "fileName": "room23f.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 128
+        },
+        {
+            "fileName": "room240.json",
+            "height": 128,
+            "width": 160,
+            "x": 1120,
+            "y": 896
+        },
+        {
+            "fileName": "room241.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 384
+        },
+        {
+            "fileName": "room242.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 384
+        },
+        {
+            "fileName": "room243.json",
+            "height": 128,
+            "width": 160,
+            "x": 640,
+            "y": 384
+        },
+        {
+            "fileName": "room244.json",
+            "height": 128,
+            "width": 160,
+            "x": 960,
+            "y": 384
+        },
+        {
+            "fileName": "room245.json",
+            "height": 128,
+            "width": 160,
+            "x": 1120,
+            "y": 128
+        },
+        {
+            "fileName": "room247.json",
+            "height": 128,
+            "width": 160,
+            "x": 0,
+            "y": 512
+        },
+        {
+            "fileName": "room248.json",
+            "height": 128,
+            "width": 160,
+            "x": 1120,
+            "y": 768
+        },
+        {
+            "fileName": "room249.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 512
+        },
+        {
+            "fileName": "room24a.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 512
+        },
+        {
+            "fileName": "room24b.json",
+            "height": 128,
+            "width": 160,
+            "x": 960,
+            "y": 640
+        },
+        {
+            "fileName": "room24c.json",
+            "height": 128,
+            "width": 160,
+            "x": 800,
+            "y": 768
+        },
+        {
+            "fileName": "room24d.json",
+            "height": 128,
+            "width": 160,
+            "x": 0,
+            "y": 384
+        },
+        {
+            "fileName": "room24e.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 640
+        },
+        {
+            "fileName": "room24f.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 640
+        },
+        {
+            "fileName": "room250.json",
+            "height": 128,
+            "width": 160,
+            "x": 640,
+            "y": 640
+        },
+        {
+            "fileName": "room251.json",
+            "height": 128,
+            "width": 160,
+            "x": 1120,
+            "y": 256
+        },
+        {
+            "fileName": "room252.json",
+            "height": 128,
+            "width": 160,
+            "x": 160,
+            "y": 640
+        },
+        {
+            "fileName": "room253.json",
+            "height": 128,
+            "width": 160,
+            "x": 960,
+            "y": 256
+        },
+        {
+            "fileName": "room255.json",
+            "height": 128,
+            "width": 160,
+            "x": 160,
+            "y": 896
+        },
+        {
+            "fileName": "room257.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 768
+        },
+        {
+            "fileName": "room258.json",
+            "height": 128,
+            "width": 160,
+            "x": 960,
+            "y": 512
+        },
+        {
+            "fileName": "room259.json",
+            "height": 128,
+            "width": 160,
+            "x": 1120,
+            "y": 512
+        },
+        {
+            "fileName": "room25a.json",
+            "height": 128,
+            "width": 160,
+            "x": 1120,
+            "y": 384
+        },
+        {
+            "fileName": "room25b.json",
+            "height": 128,
+            "width": 160,
+            "x": 1120,
+            "y": 640
+        },
+        {
+            "fileName": "room25c.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 896
+        },
+        {
+            "fileName": "room268.json",
+            "height": 128,
+            "width": 160,
+            "x": 160,
+            "y": 768
+        },
+        {
+            "fileName": "room269.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 768
+        },
+        {
+            "fileName": "room25d.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 896
+        },
+        {
+            "fileName": "room25e.json",
+            "height": 128,
+            "width": 160,
+            "x": 640,
+            "y": 896
+        },
+        {
+            "fileName": "room26a.json",
+            "height": 128,
+            "width": 160,
+            "x": 0,
+            "y": 128
+        },
+        {
+            "fileName": "room26b.json",
+            "height": 128,
+            "width": 160,
+            "x": 160,
+            "y": 128
+        },
+        {
+            "fileName": "room25f.json",
+            "height": 128,
+            "width": 160,
+            "x": 960,
+            "y": 896
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}

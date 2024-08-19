@@ -1,0 +1,2141 @@
+[dialog_000]
+text = Whoa, boy! Where ya off to in such a hurry? Set a spell, I got somethin' ta tell ya!
+
+[dialog_001]
+text = What a relief! I thought you'd never wake up! You were tossing and turning... What?  Zelda? No, my name's Marin!  You must still be feeling a little woozy. You are on Koholint Island!
+
+[dialog_002]
+text = Follow the lane south to reach the beach where I found you. Since you washed ashore, lots of nasty monsters have been in the area, so be careful, okay?
+
+[dialog_003]
+text = Hi!  Tarin went to the forest to look for toad- stools, but I'd rather sing. Listen to this, it's called the 'Ballad of the Wind Fish.'
+
+[dialog_004]
+text = Hey!  That's a nice Ocarina you have there! Will you accompany me as I sing?
+
+[dialog_005]
+text = I just love to sing-- what can I say?  What do you like to do, #####?
+
+[dialog_006]
+text = #####, Tarin's taking a nap at home.  I don't know how he can sleep on such a nice day!  It makes me want to sing a song... Yes, the song is 'Ballad of the Wind Fish!'
+
+[dialog_007]
+text = Eh? It's locked! You can open the door with the Boss Key.
+
+[dialog_008]
+text = You got a Piece of Power!  You can feel the energy flowing through you!
+
+[dialog_009]
+text = Ahhh... It has the Sleepy Toad- stool, it does! We'll mix it up something in a jiffy, we will!
+
+[dialog_00a]
+text = The last thing I kin remember was bitin' into a big juicy toad- stool... Then, I had the darndest dream... I was a raccoon!  Yeah, sounds strange, but it sure was fun!
+
+[dialog_00b]
+text = I'm all tucker'd out...  I think I better set a spell before I head home...
+
+[dialog_00c]
+text = Double double, toil and trouble a toadstool mix makes powder for tricks!
+
+[dialog_00d]
+text = As a raccoon, my nose is verrry sensitive, ta stuff like dust and powder...
+
+[dialog_00e]
+text = It's the toad- stool you picked in the woods. What is it for? You hold it over your head and a mellow aroma wafts into your nostrils.
+
+[dialog_00f]
+text = You pick the toadstool... As you hold it over your head, a mellow aroma flows into your nostrils.
+
+[dialog_010]
+text = Hrrrm...Snore... Hunh?... If'n ya don' know...call old man Ulrira! Zonk...Snore...
+
+[dialog_011]
+text = I'm tired... I'm goin' ta sleep now... Zzzzzz...
+
+[dialog_012]
+text = Well that was a surprise!  Hey! I'll tell you a secret! Use your sword to poke at dungeon walls... If you hear a hollow clank, you can break the wall with a Bomb!
+
+[dialog_013]
+text = You've learned the 'Ballad of the Wind Fish!' This song will always remain in your heart!
+
+[dialog_014]
+text = Please remember this song!  You should play it every once in a while to keep it fresh in your mind!
+
+[dialog_015]
+text = Please!  I want you to learn it! This song is my favorite!
+
+[dialog_016]
+text = So, how do you like it?  It's really touching, isn't it?  Does it stick in your mind?
+ask = Yes  No
+
+[dialog_017]
+text = Hi there, big guy!  I'm Crazy Tracy!  I've got a little secret for sale that'll pump you up!
+
+[dialog_018]
+text = Will you give me 28 Rupees for my secret?
+ask = Give Don't
+
+[dialog_019]
+text = How about it? 42 Rupees for my little secret...
+ask = Give Don't
+
+[dialog_01a]
+text = All right, come here and I'll rub it on you! ...There... I've applied my own secret medicine! It will take effect when you lose all heart! Drop by again, big guy!
+
+[dialog_01b]
+text = Beat it, then! Come back when you have some cash!
+
+[dialog_01c]
+text = ... ... ... ... But I won't sell it to you!
+
+[dialog_01d]
+text = Well!  I'm only offering you a secret that will make you strong! You're such a chicken!!
+
+[dialog_01e]
+text = ...You're so cute!  I'll give you a 7 Rupee discount!
+
+[dialog_01f]
+text = You got Marin! Is this your big chance?
+
+[dialog_020]
+text = GRRRR...
+
+[dialog_021]
+text = Heh heh heh ho! You're goin' ta be lost, thanks to me!  Heh heh!
+
+[dialog_022]
+text = BOW WOW! BOW WOW!
+
+[dialog_023]
+text = YIP YIP! YIP YIP!
+
+[dialog_024]
+text = Let's heal your wounds and get rid of all that stress... Close your eyes and relax...
+
+[dialog_025]
+text = You dirty rat! You k-k-k...beat my brothers! You'll pay!! I'll never forget you!
+
+[dialog_026]
+text = Hey runt!  You think you can take me?!  All right boys, get this punk out of my face!
+
+[dialog_027]
+text = Yep!  Those're my boys!  I'm Papahl, pleased ta meetcha! I'll be lost in the hills later, so keep a look out for me, hear?
+
+[dialog_028]
+text = Yes!!  Yes!! Break them! Break them all! ... ... ... ... What?  What's wrong?
+
+[dialog_029]
+text = Aye Caramba! Kid, you have a lot to learn, trying to buy something you have no use for!
+
+[dialog_02a]
+text = You found a Heart Container!
+
+[dialog_02b]
+text = You lost a heart!
+
+[dialog_02c]
+ask = Buy  No Way
+text = Only 300 Rupees!
+
+[dialog_02d]
+ask = Buy  Don't
+text = 10 Arrows    10 Rupees
+
+[dialog_02e]
+text = Hey!  Welcome! See something you like?!  Just bring it here!
+
+[dialog_02f]
+text = Hey! You! Stop! You gotta pay! Put it back!
+
+[dialog_030]
+ask = Buy  No Way!
+text = 200 Rupees! Seems expensive!
+
+[dialog_031]
+ask = Buy  Don't
+text = Three Hearts     10 Rupees!
+
+[dialog_032]
+ask = Buy  Don't
+text = Shield     20 Rupees!
+
+[dialog_033]
+ask = Buy  Don't
+text = Ten Bombs     10 Rupees
+
+[dialog_034]
+text = Sorry, kid!  You don't have the Rupees!  Come back when you have the cash!
+
+[dialog_035]
+text = Thanks a lot! And come again!
+
+[dialog_036]
+text = Guess what?  You got it for free. Are you proud of yourself?
+
+[dialog_037]
+text = I wasn't kidding when I said pay! Now, you'll pay the ultimate price!!
+
+[dialog_038]
+text = I wasn't kidding when I said pay! Now, you'll pay the ultimate price!!
+
+[dialog_039]
+text = Hunh?  It sounds like the castle gate opened! You can easily leave the castle now!
+
+[dialog_03a]
+ask = Play No
+text = TRENDY GAME!  One Play 10 Rs.
+
+[dialog_03b]
+ask = Play No
+text = TRENDY GAME!  One Play 10 Rs.
+
+[dialog_03c]
+text = The A and B Buttons move the crane...The rest is just timing! Go over to the buttons to play! Good Luck!
+
+[dialog_03d]
+text = It's a Shield! There is space for your name!
+
+[dialog_03e]
+ask = Play No
+text = Challenge Again?
+
+[dialog_03f]
+text = Good Luck!
+
+[dialog_040]
+text = We're closing up for today!  Come again, anytime!
+
+[dialog_041]
+text = You got some Magic Powder! Try to sprinkle it on many things!
+
+[dialog_042]
+text = It's 30 Rupees! You can play the game three more times with this!
+
+[dialog_043]
+text = Cough Cough... Don't sprinkle that on me... ...I'll have to curse you! Cough Cough...
+
+[dialog_044]
+text = You got a Yoshi Doll!  Recently, he seems to be showing up in many games!
+
+[dialog_045]
+ask = Fish Not Now
+text = How about some fishing, little buddy? I'll only charge you 10 Rupees...
+
+[dialog_046]
+text = You have to have more passion! Live a little!
+
+[dialog_047]
+text = Okay, here's how you do it.  Use <left> and <righ t> on the <dpad> to aim a cast. Once you hook a fish, press the Button rapidly to reel him in!
+
+[dialog_048]
+ask = Cast Not Now
+text = Why not try one more time, little buddy?
+
+[dialog_049]
+ask = Cast Not Now
+text = Wow! That one got away!  Want to try again?
+
+[dialog_04a]
+ask = Cast Not Now
+text = Wow! Nice Fish! It's a lunker!! I'll give you a 20 Rupee prize! Try again?
+
+[dialog_04b]
+ask = Okay No
+text = This pond's all fished out.  Why not try your luck in the sea?
+
+[dialog_04c]
+text = Did I say that? Forget it, okay? Run along now...
+
+[dialog_04d]
+ask = Okay No
+text = It's a runt! I'll only give you a 5 Rupees prize for that. You should try again!
+
+[dialog_04e]
+text = You're short of Rupees?  Don't worry about it. You just come back when you have more money, little buddy.
+
+[dialog_04f]
+text = You've got a Piece of Heart! Press SELECT on the Subscreen to see.
+
+[dialog_050]
+text = You collected four Pieces of Heart.  Now, you have a complete Heart Container!
+
+[dialog_051]
+text = Brrrr... This is a block of solid ice!  It's very cold!
+
+[dialog_052]
+text = NYAH NYAH! You can't hurt me as long as I have my bottle!
+
+[dialog_053]
+text = Waaaah! You- you broke my bottle! Why, you... You make me hopping mad!!!
+
+[dialog_054]
+text = Well, #####, ya finally snapped out of it... Name's Tarin... Hope yer feelin' better...  What? How did I know your name?  You think it's weird eh?  Well, I saw it on back of this shield!
+
+[dialog_055]
+text = Oh, yeah... Some other stuff like this washed up on the beach... If'n you go look watch out for monsters! Ever since you showed up, #####, I've seen 'em all over the place!
+
+[dialog_056]
+text = Level 1--
+    Eagle
+
+[dialog_057]
+text = Level 2--
+    Moon
+
+[dialog_058]
+text = Level 3--
+    Manji
+
+[dialog_059]
+text = Level 4--
+    Snake
+
+[dialog_05a]
+text = Level 5--
+    Lizard
+
+[dialog_05b]
+text = Level 6--
+    Dragon
+
+[dialog_05c]
+text = Level 7--
+    Demon
+
+[dialog_05d]
+text = Level 8--
+    Lion
+
+[dialog_05e]
+text = Level 9--
+    ????
+
+[dialog_05f]
+text = Mountain Bridge
+
+[dialog_060]
+text = Mountain Bridge
+
+[dialog_061]
+text = Sale's House O'     Bananas
+
+[dialog_062]
+text = Pothole Field
+
+[dialog_063]
+text = House By      The Bay
+
+[dialog_064]
+text = Trendy Game
+
+[dialog_065]
+text = Town Tool Shop
+
+[dialog_066]
+text = Marin and    Tarin's House
+
+[dialog_067]
+text = Witch's Hut
+
+[dialog_068]
+text = The Kingdom of Hyrule
+
+[dialog_069]
+text = The Kingdom of Hyrule
+
+[dialog_06a]
+text = The Kingdom of Hyrule
+
+[dialog_06b]
+text = The Kingdom of Hyrule
+
+[dialog_06c]
+text = The Kingdom of Hyrule
+
+[dialog_06d]
+text = The Kingdom of Hyrule
+
+[dialog_06e]
+text = The Kingdom of Hyrule
+
+[dialog_06f]
+text = The Kingdom of Hyrule
+
+[dialog_070]
+text = The Kingdom of Hyrule
+
+[dialog_071]
+text = The Kingdom of Hyrule
+
+[dialog_072]
+text = The Kingdom of Hyrule
+
+[dialog_073]
+text = The Kingdom of Hyrule
+
+[dialog_074]
+text = The Kingdom of Hyrule
+
+[dialog_075]
+text = The Kingdom of Hyrule
+
+[dialog_076]
+text = The Kingdom of Hyrule
+
+[dialog_077]
+text = The Kingdom of Hyrule
+
+[dialog_078]
+text = The Kingdom of Hyrule
+
+[dialog_079]
+text = The Kingdom of Hyrule
+
+[dialog_07a]
+text = The Kingdom of Hyrule
+
+[dialog_07b]
+text = The Kingdom of Hyrule
+
+[dialog_07c]
+text = Fishing Pond
+
+[dialog_07d]
+text = Madam MeowMeow's      House  Beware of Dog!
+
+[dialog_07e]
+text = Old Man Ulrira's      House
+
+[dialog_07f]
+text = Weird Mr. Write
+
+[dialog_080]
+text = Crazy Tracy's   Health Spa
+
+[dialog_081]
+text = Quadruplet's       House
+
+[dialog_082]
+text = Dream Shrine
+
+[dialog_083]
+text = Telephone Booth <down> Signpost Maze
+
+[dialog_084]
+text = Seashell Mansion
+
+[dialog_085]
+text = Richard's Villa
+
+[dialog_086]
+text = Hen House
+
+[dialog_087]
+text = Village Library
+
+[dialog_088]
+text = Raft Shop
+
+[dialog_089]
+text = Found the Bow!
+
+[dialog_08a]
+text = This rock has many cracks... There must be some way to shatter it...
+
+[dialog_08b]
+text = Oh? What a weird object!  There must be some way to tackle this obstacle.
+
+[dialog_08c]
+text = Hunh?  This rock has a key hole! You should come back with a key!
+
+[dialog_08d]
+text = Wow!  This looks pretty heavy! You won't be able to lift it with just your bare hands...
+
+[dialog_08e]
+text = Well, it's an Ocarina, but you don't know how to play it...
+
+[dialog_08f]
+text = No!  No!  Poor hen!  Stop that!
+
+[dialog_090]
+text = You found the Power Bracelet! At last, you can pick up pots and stones!
+
+[dialog_091]
+text = You got your shield back! Press the button and repel enemies with it!
+
+[dialog_092]
+text = Ahhh... Yess... That dust was so refreshing... For that, I'll tell you a hint! Use a Bomb in a place where the sand swallows you... There is a treat on the other side of the wall... Bye!
+
+[dialog_093]
+text = You've got the Hook Shot!  Its chain stretches long when you use it!
+
+[dialog_094]
+text = You've got the Magic Rod!  Now you can burn things! Burn it! Burn, baby burn!
+
+[dialog_095]
+text = You've got the Pegasus Boots! If you hold down the Button, you can dash!
+
+[dialog_096]
+text = You've got the Ocarina!  You should learn to play many songs!
+
+[dialog_097]
+text = You've got the Roc's Feather! It feels like your body is a lot lighter!
+
+[dialog_098]
+text = You've got a Shovel!  Now you can feel the joy of digging!
+
+[dialog_099]
+text = You've got some Magic Powder! Try sprinkling it on a variety of things!
+
+[dialog_09a]
+text = You found 10 Bombs!
+
+[dialog_09b]
+text = You found your Sword!  It must be yours because it has your name engraved on it!
+
+[dialog_09c]
+text = You've got the Flippers! If you press the B Button while you swim, you can dive underwater!
+
+[dialog_09d]
+text = You've got the Magnifying Lens! This will reveal many things you couldn't see before!
+
+[dialog_09e]
+text = You've got a new Sword!  You should put your name on it right away!
+
+[dialog_09f]
+text = You've got a new Sword!  You should put your name on it right away!
+
+[dialog_0a0]
+text = You found the secret medicine! You should apply this and see what happens!
+
+[dialog_0a1]
+text = You've got the Tail Key!  Now you can open the Tail Cave gate!
+
+[dialog_0a2]
+text = You've got the Slime Key!  Now you can open the gate in Ukuku Prairie!
+
+[dialog_0a3]
+text = You've got the Angler Key!
+
+[dialog_0a4]
+text = You've got the Face Key!
+
+[dialog_0a5]
+text = You've got the Bird Key!
+
+[dialog_0a6]
+text = At last, you got a Map!  Press the START Button to look at it!
+
+[dialog_0a7]
+text = You've got the Compass!  Now, you can see where the chests and Boss are hidden! This Compass has a new feature-- a tone will tell you if a key is hidden in a room when you enter!
+
+[dialog_0a8]
+text = You found a stone beak! Let's find the owl statue that belongs to it.
+
+[dialog_0a9]
+text = You've got the Boss Key! Now you can open the door to the Boss's Lair!
+
+[dialog_0aa]
+text = You got a Small Key!  You can open a locked door.
+
+[dialog_0ab]
+text = You got 20      Rupees!       JOY!
+
+[dialog_0ac]
+text = You got 50       Rupees!     Very Nice!
+
+[dialog_0ad]
+text = You got 100      Rupees!   You're Happy!
+
+[dialog_0ae]
+text = You got 200      Rupees! You're Ecstatic!
+
+[dialog_0af]
+text = Leave me alone! I'm trying to sit still so Schule can paint my portrait!
+
+[dialog_0b0]
+text = BUZZZZZ! BUZZZZ!    OUTZZZIDER!
+
+[dialog_0b1]
+text = NEENER NEENER! You can't find me!  NYAH NYAH!
+
+[dialog_0b2]
+text = BLOOOP! BLOOOP!   GLUB!  GLUB! OGGGH!  FOOOOD! BLOOOOP!  GLUB!
+
+[dialog_0b3]
+text = Ssso...you are the outsssider, come to wake the Wind Fisssh... KEEE-HEE-HEEEH! I shall eat you!
+
+[dialog_0b4]
+text = HO HO HO! I'm your bad guy this time!! HO HO HO!
+
+[dialog_0b5]
+text = TSSSK, TSSSK! You don't ssseem to know what kind of island thisss iss... KEEE-HEEE-HEEE! What a fool... KEE-HEE-HEH!!
+
+[dialog_0b6]
+text = Hey dummy! Need a hint?  My weak point is... !! Whoops!  There I go, talking too much again...
+
+[dialog_0b7]
+text = Okay, listen up! If the Wind Fish wakes up, every- thing on this island will be gone forever! And I do mean... EVERYTHING!
+
+[dialog_0b8]
+text = My energy... gone...I...lost! But you will be lost too, if the Wind Fish wakes! Same as me...you ...are...in... his...dream...
+
+[dialog_0b9]
+text = My energy... gone...I...lost! But you will be lost too, if the Wind Fish wakes! Same as me...you ...are...in... his...dream...
+
+[dialog_0ba]
+text = BAH!  I'm not going to hold back!  I'm going to make you wish you were never born!!
+
+[dialog_0bb]
+text = CRACKLE-FWOOOSH! You're finished! I will never let you play the Instruments of the Sirens!!
+
+[dialog_0bc]
+text = CRACKLE-FWOOOSH! You're finished! I will never let you play the Instruments of the Sirens!!
+
+[dialog_0bd]
+text = C-C-CRACKLE! Why did you come here?  If it weren't for you, nothing would have to change! You cannot wake the Wind Fish! Remember, you... too...are in... ...the dream...
+
+[dialog_0be]
+text = 'I've got what was inside this box.  Come and get it, if you can!'  Master <skull>
+
+[dialog_0bf]
+text = 
+
+[dialog_0c0]
+text = Hoot! Hoot! Out of stock?
+ask = Okay No
+
+[dialog_0c1]
+text = Hoot! Hoot! Hoot! Hoot! Here are a few things for you.
+
+[dialog_0c2]
+text = 
+
+[dialog_0c3]
+text = 
+
+[dialog_0c4]
+text = 
+
+[dialog_0c5]
+text = 
+
+[dialog_0c6]
+text = 
+
+[dialog_0c7]
+text = 
+
+[dialog_0c8]
+text = Found Bowwow! Which monster put him in a chest? He is a good boi, and waits for you at the Swamp.
+
+[dialog_0ca]
+text = Found 10 Arrows!
+
+[dialog_0cb]
+text = Found a Single Arrow... joy?
+
+[dialog_0cc]
+text = 
+
+[dialog_0cd]
+text = 
+
+[dialog_0ce]
+text = Hoot! Young lad, I mean... #####, the hero!  You have defeated the Nightmares! You have proven your wisdom, courage and power! ... ... ... ... As part of the Wind Fish's spirit, I am the guardian of his dream world... But one day, the Nightmares entered the dream and began wreaking havoc. Then you, #####, came to rescue the island... I have always trusted in your courage to turn back the Night- mares.  Thank you, #####... My work is done... The Wind Fish will wake soon. Good bye...Hoot!
+
+[dialog_0cf]
+text = Hoot! Young lad, I mean... #####, the hero!  You have defeated the Nightmares! You have proven your wisdom, courage and power! ... ... ... ... As part of the Wind Fish's spirit, I am the guardian of his dream world... But one day, the Nightmares entered the dream and began wreaking havoc. Then you, #####, came to rescue the island... I have always trusted in your courage to turn back the Night- mares.  Thank you, #####... My work is done... The Wind Fish will wake soon. Good bye...Hoot!
+
+[dialog_0d0]
+text = ... ... ... ...  ... ... ... ...  I AM THE WIND       FISH...  LONG HAS BEEN   MY SLUMBER...  IN MY DREAMS...  AN EGG APPEARED      AND WAS SURROUNDED BY AN   ISLAND, WITH PEOPLE, ANIMALS, AN ENTIRE WORLD! ... ... ... ...   BUT, VERILY, IT BE THE NATURE   OF DREAMS TO END! WHEN I DOST AWAKEN, KOHOLINT  WILL BE GONE... ONLY THE MEMORY  OF THIS DREAM LAND WILL EXIST   IN THE WAKING       WORLD...  SOMEDAY, THOU MAY RECALL THIS  ISLAND...  THAT  MEMORY MUST BE  THE REAL DREAM      WORLD... ... ... ... ...  COME, #####... LET US AWAKEN...    TOGETHER!!
+
+[dialog_0d1]
+text = PLAY THE EIGHT   INSTRUMENTS! PLAY THE SONG OF    AWAKENING!!
+
+[dialog_0d2]
+text = PLAY THE EIGHT   INSTRUMENTS! PLAY THE SONG OF    AWAKENING!!
+
+[dialog_0d3]
+text = Mermaid Statue
+
+[dialog_0d4]
+text = Mermaid Statue
+
+[dialog_0d5]
+text = Mermaid Statue
+
+[dialog_0d6]
+text = ...#####, you have beaten all the Nightmares! Climb the stairs before you!
+
+[dialog_0d7]
+text = ...#####, you have beaten all the Nightmares! Climb the stairs before you!
+
+[dialog_0d8]
+text = Ach! Vat are you looking at vith zat magnifying lens?  Stop it at vonce!
+
+[dialog_0d9]
+text = Found the Boomerang!
+
+[dialog_0da]
+text = Annoyance!  You are only getting in the way!
+
+[dialog_0db]
+text = Ribbit!  Ribbit! Hey, man, I'm Mamu, on vocals! Brother, you look like you don't know squat about music!  Ribbit!
+
+[dialog_0dc]
+text = Ribbit!  Ribbit! I'm Mamu, on vocals!  But I don't need to tell you that, do I?  Everybody knows me!  Want to hang out and listen to us jam?  For 300 Rupees, we'll let you listen to a previously unreleased cut! What do you do?
+ask = Pay  Leave
+
+[dialog_0dd]
+text = Thank you... Thank you very much... Croak!
+
+[dialog_0de]
+text = Well, that's a shame, but we don't play for free!
+
+[dialog_0df]
+text = You've learned The Frog's Song of Soul!  It's a very moving tune... It can even liven up unliving things!
+
+[dialog_0e0]
+text = If you play this song, you'll make everything around you feel more alive!
+
+[dialog_0e1]
+text = Hey, Kid!  You woke me up from a fine nap!! ...Thanks a lot! But now, I'll get my revenge! Are you ready?!
+ask = Yes  N-No
+
+[dialog_0e2]
+text = I'll let you carry more Magic Powder!  He He! Are you ready?!
+ask = Yes  N-No
+
+[dialog_0e3]
+text = Okay, I'll let you carry more Bombs! He He He! Are you ready?!
+ask = Yes  N-No
+
+[dialog_0e4]
+text = Fine, I'll let you have more arrows! Heh Heh! Are you ready?!
+ask = Yes  N-No
+
+[dialog_0e5]
+text = Heh Heh Heh! You deserve it! Now look at all that junk you have to carry! Hah!  Take care! See you again!
+
+[dialog_0e6]
+text = ??  There is a picture carved on the wall, but you can't see it because it's too dark in here...
+
+[dialog_0e7]
+text = TO THE FINDER...   THE ISLE OF KOHOLINT, IS BUT   AN ILLUSION...  HUMAN, MONSTER,  SEA, SKY... A SCENE ON THE LID  OF A SLEEPER'S   EYE...  AWAKE THE DREAMER, AND   KOHOLINT WILL VANISH MUCH LIKE   A BUBBLE ON A NEEDLE... CAST- AWAY, YOU SHOULD KNOW THE TRUTH! ... ... ... ... What?  Illusion?
+
+[dialog_0e8]
+text = You've found a Gold Leaf! Press START to see how many you've collected!
+
+[dialog_0e9]
+text = At last!  You've got the final Golden Leaf! Now go and see Richard about that key...
+
+[dialog_0ea]
+text = You've got a Guardian Acorn! It will reduce the damage you take by half!
+
+[dialog_0eb]
+text = You've got a Guardian Acorn! It will reduce the damage you take by half!
+
+[dialog_0ec]
+text = You've got a Guardian Acorn! It will reduce the damage you take by half!
+
+[dialog_0ed]
+text = You've got the Mirror Shield! You can now turn back the beams you couldn't block before!
+
+[dialog_0ee]
+text = You've got a more Powerful Bracelet!  Now you can almost lift a whale!
+
+[dialog_0ef]
+text = You found a Secret Seashell! If you collect a lot of these, something good is bound to happen!
+
+[dialog_0f0]
+text = Want to go on a raft ride for a hundred Rupees?
+ask = Yes  No Way
+
+[dialog_0f1]
+text = Okay, the raft is ready for you outside!  Enjoy!
+
+[dialog_0f2]
+text = Waterfall at the     Shrine
+
+[dialog_0f3]
+text = South of the     Shrine
+
+[dialog_0f4]
+text = Entrance to the  Animal Village
+
+[dialog_0f5]
+text = We were born of nightmares... To take over this world, we made the Wind Fish sleep endlessly! If the Wind Fish doesn't wake up, this island will never disappear! We would have been the masters of this place... But you had to come here and disrupt our plans!  Heh heh! You can never defeat us!!! Let's rumble!
+
+[dialog_0f6]
+text = This island is going to dis- appear...  Our world is going to disappear... Our world... Our... world...
+
+[dialog_0f7]
+text = Wow!  #####, can I try this?! What do you say?
+ask = Okay No Way
+
+[dialog_0f8]
+text = C'mon!  I want to do it! Can I? It looks so fun!
+ask = Yes  Okay
+
+[dialog_0f9]
+text = You're good! You're a pro, aren't you? ... ... ... ... Well, beat it! Pros aren't allowed in here!
+
+[dialog_0fa]
+text = Go away!
+
+[dialog_0fb]
+text = Quit it!
+
+[dialog_0fc]
+text = This is not a chest...  What? You knew that? Okay.
+
+[dialog_0fd]
+text = ##### checked the chest.  Wow! This is a nice chest!
+
+[dialog_0fe]
+text = It's all ready, it is!  Take care, as there's not much there! Why not try a bit in my hut?
+
+[dialog_0ff]
+text = Hey!  What are ya doin' in my chest?!  Where'd you learn ta do such a thing?!
+
+[dialog_100]
+text = You've got the Full Moon Cello!
+
+[dialog_101]
+text = You've got the Conch Horn!
+
+[dialog_102]
+text = You've got the Sea Lily's Bell!
+
+[dialog_103]
+text = You've got the Surf Harp!
+
+[dialog_104]
+text = You've got the Wind Marimba!
+
+[dialog_105]
+text = You've got the Coral Triangle!
+
+[dialog_106]
+text = You've got the Organ of   Evening Calm!
+
+[dialog_107]
+text = You've got the Thunder Drum!
+
+[dialog_108]
+text = Hi! It's me, the photographer! You seem curious about Grandpa Ulrira.
+
+[dialog_109]
+text = I'll call this '##### Dis- covers Ulrira's Secret!'
+
+[dialog_10a]
+text = #####, now run away before he finds you.
+
+[dialog_10b]
+text = I'll go develop this. Come see it later, OK?
+
+[dialog_10c]
+text = I just LOVE to take pictures. Will you let me take your picture?
+ask = YES  NO
+
+[dialog_10d]
+text = Go to the back of the room and stand in front of the screen.
+
+[dialog_10e]
+text = Hey! I haven't taken your picture yet! Go back and stand in front of the screen!
+
+[dialog_10f]
+text = I'll call this 'Here Stands A Brave Man.' Say cheese!
+
+[dialog_110]
+text = This owl statue is trying to say something, but you can't understand it because it has no beak.
+
+[dialog_111]
+text = 'I've got what was inside this box.  Come and get it, if you can!'  Master <skull>
+
+[dialog_112]
+text = Gulp!  You found me!  You're a real pesky kid, you know that?!
+
+[dialog_113]
+text = Arrgh!  I can't beat you!  I'm outta here!
+
+[dialog_114]
+text = You again?!  You keep going and going... I can't outlast you! All right, let's do it!
+
+[dialog_115]
+text = WOOF! Dig! RUFF!
+
+[dialog_116]
+text = You put the missing scale in the mermaid statue!
+
+[dialog_117]
+text = Hey! Be more careful next time!
+
+[dialog_118]
+text = Hey, man!  When you want to save just push all the Buttons at once!  Uhh... Don't ask me what that means, I'm just a kid!
+
+[dialog_119]
+text = Well, it seems that after you save, you will start at the last door you went through... I'm not really sure why that is 'cause I'm just a kid!
+
+[dialog_11a]
+text = I heard that you can press SELECT to look at the island map... But, I don't understand what they mean by that...
+
+[dialog_11b]
+text = When you're running out of Hearts, you'd better enter a house or cave... Why?  I have no idea, I'm just a kid!
+
+[dialog_11c]
+text = Hey, dude! What do you think of Marin?  Uhh... I don't know, I'm just a kid!
+
+[dialog_11d]
+text = Where are you from, brother? ...Outside the island?  What is 'outside?'  I've never thought about it...
+
+[dialog_11e]
+text = The giant egg on top of Tamaranch Mountain?  They say the Wind Fish is sleeping inside of it... Why?  I don't know either...
+
+[dialog_11f]
+text = Dude!  You're asking me when we started to live on this island?  What do you mean by 'when?'  Whoa! The concept just makes my head hurt!
+
+[dialog_120]
+text = Marin? She likes to go stare at the ocean all by herself...  Why? Hey, I'm just a kid, don't ask me!
+
+[dialog_121]
+text = Hey... Where're you two going together?  Hunh? Uh, I didn't mean anything... I'm just a kid!
+
+[dialog_122]
+text = Hey hey, bro! About the Dream Shrine there... They say there's something good inside... ... I better not say anything else as I'm just a kid!
+
+[dialog_123]
+text = Hunh?!  Marin's not with you? What happened to her?
+
+[dialog_124]
+text = WHOA! That's a big one! Hey, photo guy! Can you take a picture of this?
+
+[dialog_125]
+text = I have a feelin' that I'll catch a big fish again.
+
+[dialog_126]
+text = If you keep me a secret, I'll tell you some- thing useful. Go to Toronbo Shores, use the magnifying glass and you will find someone like me.
+
+[dialog_127]
+text = Tsk tsk...  What a shame...
+
+[dialog_128]
+text = Oh thank you! You are indeed a generous person! Ah!  I will give you this in return!
+
+[dialog_129]
+text = You traded your <yoshi> for <ribbon>!  Maybe you can trade the ribbon for something else!
+
+[dialog_12a]
+text = Because they all look alike, even I am sometimes confused. . . By the way, my baby wants a Yoshi Doll. I saw one at the Trendy Game, but I couldn't get it.
+
+[dialog_12b]
+text = Oh!  Will you give that doll to my baby?!
+ask = Yes  No
+
+[dialog_12c]
+text = Because they all look alike, even I am sometimes confused...
+
+[dialog_12d]
+text = Ahem!  Really, I must insist that you not bring that awful beast in here!  Leave that creature outside and then we can talk! Good Bye!
+
+[dialog_12e]
+text = You want to know about that ghost? I'll bet he's happy thanks to you. Are you ready for a picture?
+
+[dialog_12f]
+text = Ho ho ho! I really appre- ciate what you did for my poor, precious BowWow! You are such a nice boy!  How can I ever repay you?  I know...   SMOOOOOOOCH! You got a reward from Madam Meow- Meow... ... ... L-l-lucky!
+
+[dialog_130]
+text = Ho ho ho!  My BowWow is so proud of his fine fur coat!
+
+[dialog_131]
+text = AIEEEEEEEE! It's terrrrible! My BowWow was dognapped by... Mo-mo-MOBLINS!! OHHH!  AHHHH! Please! Somebody help my poor BowWow!!
+
+[dialog_132]
+text = Oh thank you! I'm so happy you brought my baby back! Now, would you be a dear and take him for a walk? It would really help me out a lot!  You will?!  Thanks!
+
+[dialog_133]
+text = Well... I pretty much stick to myself, me and my letters... My name's Write! I love writting in secret code. Did you know there are all kinds of ways to write secret code? Substitution ciphers are pretty popular.
+
+[dialog_134]
+text = What's this?!  A letter for me?! I'm so happy! ...And look! The letter came with a photograph!
+
+[dialog_135]
+text = Mmm... She's so beautiful... I must give you something for your trouble... Hmm...  Well, it looks like all I have is this broom... how'll that be?
+ask = Fine No...
+
+[dialog_136]
+text = You got a Broom as your reward from Mr. Write! But that photo was not of...
+
+[dialog_137]
+text = Please! I really must insist you have this <broom>!
+ask = Okay No Way
+
+[dialog_138]
+text = Oh boy!  Letter writing is such a great hobby!
+
+[dialog_139]
+text = Hello!  I'm writing back to Christine now!
+
+[dialog_13a]
+text = Salutations! You wouldn't know by the look of me, but I used to live in the castle! My servants went berserk and I was forced to flee to my villa... So, you want the key to Ukuku Prairie, do you?  I may be able to help you...  Let's make... a deal, shall we? I want you to retrieve the Golden Leaf I left behind in the castle when I fled...
+ask = Okay No Way
+
+[dialog_13b]
+text = I am impressed. There are five leaves in all. Remember to buy a shovel on your way back.
+
+[dialog_13c]
+text = Well, I never! I thought you looked cowardly, but...  Please, leave me... just get out here!
+
+[dialog_13d]
+text = Ahh!  Tres Bien! I see you have recovered all of the leaves! Now, move this box and you will find your reward!
+
+[dialog_13e]
+text = I am forever in your debt for getting my leaves back!
+
+[dialog_13f]
+text = Ah!  Bonjour! #####, for the love of justice, and my own sake, you must find all the leaves!
+
+[dialog_140]
+text = TODO TIP: Grandpa
+
+[dialog_141]
+text = TODO: Phone tip
+
+[dialog_142]
+text = 'BRRING! BRRING! Hello, this is Ulrira! ...Well, most Moblins live in the Mys- terious Forest, but some live in the caves of Tal Tal Heights... I hope that is what you wanted to know! CLICK!'
+
+[dialog_143]
+text = 'BRRING! BRRING! Yes, this is Ulrira.  The Indigestible Flowers of Goponga Swamp... Those flowers are BowWow's favorite.  Why don't you take him for a walk there?  CLICK!'
+
+[dialog_144]
+text = 'BRRING! BRRING! Hi, it's Ulrira! ...Have you met everyone on the island?  There's a man named Richard who lives in Pothole Field, southeast of the village. Why not pay him a visit?  That's all I can tell you for now! Bye!  CLICK!'
+
+[dialog_145]
+text = 'BRRING! BRRING! Old man Ulrira here! ...Do you like bananas? Try talking to people in the village again! Bye!  CLICK!'
+
+[dialog_146]
+text = 'BRRING! BRRING! Ulrira speaking! You know, there is a library in the village that might have some good information for you!  Talk to you later! CLICK!'
+
+[dialog_147]
+text = 'BRRING! BRRING! Ya, it's Ulrira! You say you haven't found all five Golden Leaves? Go ask the crow at the castle. I'm sure he can help you. Bye! CLICK!'
+
+[dialog_148]
+text = 'BRRING! BRRING! Ulrira here! ... Shovel...  Did you purchase a shovel?  You may find something if you dig here and there!  Bye! CLICK!'
+
+[dialog_149]
+text = 'BRRING! BRRING! Ya, it's Ulrira! The cave in the Ukuku Prairie is the key!  Yes, I mean the key cave, no pun intended!  Bye! CLICK!'
+
+[dialog_14a]
+text = 'BRRING! BRRING! Hi, this is Ulrira!  In the Yarna Desert, which is located in the southeast of the island, you will find something called the Angler Key. Hmmm... How much more obvious do I have to be? Bye! CLICK!'
+
+[dialog_14b]
+text = 'BRRING! BRRING! This is Ulrira! Now you're being haunted by a ghost?! Well, how about taking him where he wants to go? Bye! CLICK!'
+
+[dialog_14c]
+text = 'BRRING! BRRING! Hi, it's Ulrira! The Catfish's mouth is wide open?  It sounds like a great place to dive! Bye!  CLICK!'
+
+[dialog_14d]
+text = 'BRRING! BRRING! Ulrira here! ... Have you been to the Face Shrine? It is north of Animal Village. That is a very interesting ruin... CLICK!'
+
+[dialog_14e]
+text = 'BRRING! BRRING! Hi, it's Ulrira! Have you heard of the Flying Rooster of Mabe Village?  In the good old days, it used to give us rides if we held it above our heads... Now it is lying under the Weathercock... Is that useful for you?  I hope so! Bye! CLICK!'
+
+[dialog_14f]
+text = 'BRRING! BRRING! Hi, it's Ulrira! The head of the turtle is in your way?  Put life into it and it will move! It's true! True! Bye!  CLICK!'
+
+[dialog_150]
+text = ...SWAMP...  A path opens... in the blooms...
+
+[dialog_151]
+text = ...PRAIRIE...   ...PRAIRIE...  The Prairie is      waiting...
+
+[dialog_152]
+text = ...WATERFALL... It is hidden in the waterfall...
+
+[dialog_153]
+text = ...BAY... Your road goes into the bay...
+
+[dialog_154]
+text = ...SHRINE... An island secret in the shrine...
+
+[dialog_155]
+text = ...MOUNTAIN... Something calls   ...from the   mountains...
+
+[dialog_156]
+text = ...OCARINA... The music of the Ocarina leads...
+
+[dialog_157]
+text = ...EGG.... The Egg on the mountain calls!
+
+[dialog_158]
+text = Then YOU sweep the island!
+
+[dialog_159]
+text = Then YOU sweep the island!
+
+[dialog_15a]
+text = YAHOO!   I'm fine, and you?!
+
+[dialog_15b]
+text = YAHOO!  I worked too hard and now my broom is worn to the handle!
+
+[dialog_15c]
+text = YAHOO!  YAHOO! A new broom?! For me?  It is, isn't it?!
+ask = Yes  No
+
+[dialog_15d]
+text = Okay!  In return you can have this fishing hook I found when I swept by the river bank!
+
+[dialog_15e]
+text = You exchanged <broom> for the fishing hook <fishhook>!  What will the fishing hook become?
+
+[dialog_15f]
+text = YAHOO!  A new broom!  Superb!
+
+[dialog_160]
+text = Kiiiki!  What?! All right, mutt! Let's battle!!
+
+[dialog_161]
+text = Chi-kiita! Chi- kiita!  Kiki the monkey!  Hungry! Kiki the monkey!
+
+[dialog_162]
+text = <bananas>!    <bananas>! Oooh! Ooh! Kiki! Monkeys!  Come! Repay him! Kiki!
+
+[dialog_163]
+text = Monkey business! Done!  Bye bye! Oooh!  Kiki!
+
+[dialog_164]
+text = You found a stick a monkey left behind... You take it!
+
+[dialog_165]
+text = <bananas>!    <bananas>!   Oooh!  Oooh!  Give to Kiki!?
+ask = Yes  No!
+
+[dialog_166]
+text = You don't know the proper etiquette when dealing with a lady, do you? You should have brought flowers or something, then I might be more inclined to talk with you... Oh yes, in my case, hibiscus are best...
+
+[dialog_167]
+text = Oh, you brought me a hibiscus! How sweet! Well, since you are such a gentleman I have a request to make of you. Will you listen?
+ask = Yes  No
+
+[dialog_168]
+text = I would like you to take this letter to a Mr. Write who lives on the border of the Mysterious Forest, please!
+
+[dialog_169]
+text = ...Is that so? And I thought you were a gentleman...
+
+[dialog_16a]
+text = You traded <flower2> for a goat's letter <letter>!  ...Great!?
+
+[dialog_16b]
+text = You know, some- times I can't help eating a delicious piece of paper, even if it's a letter to my darling Mr. Write... How embarrassing!
+
+[dialog_16c]
+text = You've saved BowWow!  What a fearsome beast!
+
+[dialog_16d]
+text = Wow! The Rooster has recovered! He seems very friendly!
+
+[dialog_16e]
+text = Grumble Grumble
+    Thanks for the toy... <yoshi> <yoshi> <yoshi> <yoshi>
+    
+[dialog_16f]
+text = Grumble Grumble
+    I want toys... <yoshi>
+
+[dialog_170]
+text = Yep, Papahl got lost, just like he said!  Now, I am so famished I can't move!  Can you give me some vittles?
+ask = Yes  Nope
+
+[dialog_171]
+text = You're one cold hombre...
+
+[dialog_172]
+text = This <pineapple> is so delicious!  I'm going to eat the <pineapple> right now!  Bon Appetit!
+
+[dialog_173]
+text = AH!  This isn't meant to be a reward...  Here, take this <flower2>! It's a hibiscus!
+
+[dialog_174]
+text = You traded the <pineapple> for the <flower2>!
+
+[dialog_175]
+text = Delicious!  Yum! I'm filled with energy, now!
+
+[dialog_176]
+text = I've got to say, thanks again!
+
+[dialog_177]
+text = Yep, Papahl got lost, just like he said!  Now, I am so famished I can't move!  Can you give me some vittles?
+ask = Nope Can't
+
+[dialog_178]
+text = She's had an awful tragedy in the house across the way! It's just awful, and all I can do is sweep!
+
+[dialog_179]
+text = I am the spirit of the mansion. I have been waiting for someone to overcome the darkness. Find all the secret shells and go through the gate to receive the ultimate sword!
+
+[dialog_17a]
+text = Hmmm. No response. You must not have enough shells.
+
+[dialog_17b]
+text = My job here is finished.
+
+[dialog_17c]
+text = Hey you! Have you been to the Camera Shop in Tal Tal Heights? Iyoung people  like to go ther eand take  pictures of  themselves.  Seems kinda  funny to me.
+
+[dialog_17d]
+text = Step right up and get your souvenir photo!
+
+[dialog_17e]
+text = Good job! Use it on your enemies and see what happens. If you run out, go to the for- est, pick some mushrooms, and I will make you more.
+
+[dialog_17f]
+text = . . . .! I can't move! But I am still all right. Your little sword won't break this bottle!
+
+[dialog_180]
+text = Make-up! Jewels! Dresses!  I want it all!  Sigh... And some new accessories would be nice...
+
+[dialog_181]
+text = Make-up! Jewels! Dresses!  I want it all!  Sigh... And some new accessories would be nice... Oh! That Ribbon! I need it!  Will you trade for my dog food?
+ask = Yes  No!
+
+[dialog_182]
+text = You exchanged <ribbon> for <dogfood>! It's full of juicy beef!
+
+[dialog_183]
+text = Lucky!  Thanks! Well, here's your <dogfood>!
+
+[dialog_184]
+text = Eh?!  I can't believe it!  You are the worst!!
+
+[dialog_185]
+text = I am Manbo, child of the Sun Fish!  Have you got an Ocarina?
+ask = Yes  No
+
+[dialog_186]
+text = Very well... Glub Blub Bloop!
+
+[dialog_187]
+text = Ahaha!  Then I can teach you my song! Bloop!
+
+[dialog_188]
+text = You've learned Manbo's Mambo! When you get out of the water, play it!
+
+[dialog_189]
+text = I am Manbo, child of the Sun Fish!  When you play my Mambo, you can warp to Manbo Pond!  Try this tune in the dungeons, too! Cha-cha-cha!
+
+[dialog_18a]
+text = Aha... You don't have an Ocarina, so...Glub glub!
+
+[dialog_18b]
+text = TODO TIP, Luigi
+
+[dialog_18c]
+text = Wow!  Amazing! That rooster is actually flying! It's just like I said, eh?  Have you tried to hold him over your head? Cluck Cluck!
+
+[dialog_18d]
+text = Wooo!  Finally! This flying rooster is the greatest!
+
+[dialog_18e]
+text = Here Sleeps The  Flying Rooster
+
+[dialog_18f]
+text = Iz zat zee Mermaid scale? I can't use it now. I have to werk on zis drawing. You should go finish zee mermaid statue for me.
+
+[dialog_190]
+text = Ennh?  Who's this suspicious- looking runt?! Okay boys, let's get ridda him!
+
+[dialog_191]
+text = You must be an assassin sent by Madam MeowMeow to rescue the mutt!  You came here to get me, but it is I who will get you!!
+
+[dialog_192]
+text = Oh, #####.  I often come to this village to sing, too!  It seems that just about everyone loves my 'Ballad of the Wind Fish!'  #####, what is your favorite song?
+
+[dialog_193]
+text = Please, don't ever forget this song...or me...
+
+[dialog_194]
+text = Thank you for everything! #####, you are the kindest boy I know.  One day I made a wish to the Wind Fish... What was the wish?  It was... No, it's secret!
+
+[dialog_195]
+text = #####, some day you will leave this island... I just know it in my heart... ...Don't ever forget me... If you do, I'll never forgive you!
+
+[dialog_196]
+text = ... ... ... ... It seems to be totally absorbed in Marin's song!
+
+[dialog_197]
+text = They say the 'Ballad of the Wind Fish' is a song of awaken- ing.  I wonder, if the Wind Fish wakes up, will he make my wish come true?
+
+[dialog_198]
+text = Eh?  You want me to go in there? No, I think I'll wait out here... Take care of yourself, #####!
+
+[dialog_199]
+text = Ahhh!  Ahhh, you are a bad boy, #####!
+
+[dialog_19a]
+text = Here's some bonus treatment! Behold!  Your Hearts are full!
+
+[dialog_19b]
+text = Ya, I am Schule Donavitch!  Zee mermaid statue by zee bay iz my masterpiece! ... To tell you zee truth, zis werk iz not complete! Zee art, it'z... difficult for you to grasp, iz it not?
+
+[dialog_19c]
+text = THE MOURNING      MERMAID     By SCHULE ? ...A scale is missing...
+
+[dialog_19d]
+text = Seashell Mansion
+
+[dialog_19e]
+text = Entrance to   Yarna Desert <right>
+
+[dialog_19f]
+text = Mysterious      Forest  (It's a little  bit mysterious)
+
+[dialog_1a0]
+text = Mysterious      Forest  (It's a little  bit mysterious)
+
+[dialog_1a1]
+text = Do you want to challenge the river rapids on a raft?  Proceed to the office at once, please!
+
+[dialog_1a2]
+text = East <right> Ukuku        Prairie Farther East   Animal Village
+
+[dialog_1a3]
+text = Mt. Tamaranch
+
+[dialog_1a4]
+text = <right> Tail Cave <down> Toronbo Shores
+
+[dialog_1a5]
+text = <right> Gopongo Swamp <down> Mysterious   Forest
+
+[dialog_1a6]
+text = Beware of floors with cracks!  A heavy person should not stand on them!
+
+[dialog_1a7]
+text = Telephone Booth
+
+[dialog_1a8]
+text = DANGER!     Keep out! (Except BowWow)
+
+[dialog_1a9]
+text = <down> GO THIS WAY
+
+[dialog_1aa]
+text = <up> GO THIS WAY
+
+[dialog_1ab]
+text = <right> GO THIS WAY
+
+[dialog_1ac]
+text = <left> GO THIS WAY
+
+[dialog_1ad]
+text = TRY AGAIN FROM    THE START
+
+[dialog_1ae]
+text = GREAT!  YOU DID IT!  YOUR REWARD IS <right> THIS WAY!
+
+[dialog_1af]
+text = GONE ON TOUR          MAMU
+
+[dialog_1b0]
+text = <right> Crazy Tracy <down> Manbo's Pond
+
+[dialog_1b1]
+text = <right> Animal Village <down> Martha's Bay
+
+[dialog_1b2]
+text = <right> Welcome to the  Animal Village!
+
+[dialog_1b3]
+text = <right> Cemetery <down> Ukuku Prairie
+
+[dialog_1b4]
+text = You're close to Tal Tal Heights. The Camera Shop is nearby.
+
+[dialog_1b5]
+text = <right> Tamaranch Mt. <left> Goponga Swamp
+
+[dialog_1b6]
+text = MUSIC, THE FISH STIRS IN THE EGG YOU ARE THERE...
+
+[dialog_1b7]
+text = THE WIND FISH IN NAME ONLY, FOR IT IS NEITHER.
+
+[dialog_1b8]
+text = IN SOIL SLEEPS SECRETS, BENEATH YOUR SOLES...
+
+[dialog_1b9]
+text = IN SOIL SLEEPS SECRETS, BENEATH YOUR SOLES...
+
+[dialog_1ba]
+text = AROUND HERE, SECRETS ARE NIGH
+
+[dialog_1bb]
+text = SECRETS ARE LIKE WATER WHEN IT COMES TO BRIDGES
+
+[dialog_1bc]
+text = NOW YOU NEED LOOK FAR FOR A SECRET...
+
+[dialog_1bd]
+text = THE WIND FISH SLUMBERS LONG... THE HERO'S LIFE GONE...
+
+[dialog_1be]
+text = SEA BEARS FOAM, SLEEP BEARS DREAMS. BOTH END IN THE SAME WAY CRASSSH!
+
+[dialog_1bf]
+text = Oh?!  #####, I see ya have a nice stick... Can I borrow it for a second?
+ask = Can  Can't
+
+[dialog_1c0]
+text = Oh?!  #####, I see ya have a nice stick... Can I borrow it for a second?
+ask = Can  Can't
+
+[dialog_1c1]
+text = <stick> became the honeycomb <honeycomb>! You're not sure how it happened, but take it!
+
+[dialog_1c2]
+text = Hmmm, #####, you are mean!
+
+[dialog_1c3]
+text = Beware of Sea Urchins!  Don't touch them with your bare hands!
+
+[dialog_1c4]
+text = I was hungry somethin' fierce so I went and got bananas at the beach... #####, if you want some, you should go and get some!
+
+[dialog_1c5]
+text = I was hungry somethin' fierce so I went and got bananas at the beach... #####, if you want some, you should go and get some!
+
+[dialog_1c6]
+text = Welcome to Sale's House O' Bananas!  I'm Sale, this is my house! Actually, my hobby is col- lecting rare and unusual canned food. My brother is an artist, so I guess strange hobbies run in the family!
+
+[dialog_1c7]
+text = What's that you have?!  It's canned food! For heaven's sake, man, give that <dogfood> to ME!!  PLEASE! He's hysterical! What do you do?
+ask = Give Don't
+
+[dialog_1c8]
+text = Oh thank you! I'll take that!
+
+[dialog_1c9]
+text = I don't suppose it would do any good to beg? Well, if you change your mind, tell me.
+
+[dialog_1ca]
+text = MUNCH MUNCH!! ... ... ... ... That was great! I know it's not a fair trade, but here's some bananas! YUM...
+
+[dialog_1cb]
+text = You gave him <dogfood> and got bananas <bananas> in return! Good deal!
+
+[dialog_1cc]
+text = Thank you again! That was yummy!
+
+[dialog_1cd]
+text = Hey friend! Have you ever ridden the rapids on a raft?  You can, near Tal Tal Heights!  You ought to try it!
+
+[dialog_1ce]
+text = Rik'm rak'm! I ran out of ingredients!  If I had honey, I could make this fit for a king!
+
+[dialog_1cf]
+text = Hi ho! Hey you! Is that possibly a <honeycomb> you have? I just ran out! Will you swap it for a pineapple?
+ask = Yes  No
+
+[dialog_1d0]
+text = You exchanged <honeycomb> for <pineapple>!  It's not as sweet, but it is delicious!
+
+[dialog_1d1]
+text = That's a crying shame, but I realize those are a rare delicacy!
+
+[dialog_1d2]
+text = Hi ho! Yeah, I know, that tub of goo is asleep right in the way to Yarna Desert! Once he's asleep he won't budge for a loooooonng time.  But hey! Take Little Marin and wake him up with her song!  That slob would wake up with a jump if he heard her sing, for sure! Heh heh heh!
+
+[dialog_1d3]
+text = My ultimate plan is to open a branch in Mabe Village!
+
+[dialog_1d4]
+text = HI HO!  Little Marin!  Welcome! ... ... ... ... Oh, shucks!  You are here too... Sorry...
+
+[dialog_1d5]
+text = Oh, #####, I'm glad you found this place. Will you stay and talk to me for a while?
+ask = Yes! No...
+
+[dialog_1d6]
+text = Okay, I'll just watch the waves for a while...
+
+[dialog_1d7]
+text = At the beach...  Marin  <marin>
+
+[dialog_1d8]
+text = I wonder where these coconut trees come from? ...Tarin says there is nothing beyond the sea, but I believe there must be something over there...  When I discovered you, #####, my heart skipped a beat! I thought, this person has come to give us a message...
+
+[dialog_1d9]
+text = ... ... ... ... ... ... ... ... If I was a sea gull, I would fly as far as I could!  I would fly to far away places and sing for many people! ...If I wish to the Wind Fish, I wonder if my dream will come true... ... ...
+
+[dialog_1da]
+text = Hey!  Are you listening? #####, are you listening to me?
+ask = Yeah No...
+
+[dialog_1db]
+text = I want to know everything about you...Err...Uhh, Ha ha ha ha!
+
+[dialog_1dc]
+text = Hunh? The walrus wants me to go to him?  It doesn't matter, I will go with you to him...
+
+[dialog_1dd]
+text = Unnnngh! Owwwww! ... ... ... ... I've sure lost my taste for honey!
+
+[dialog_1de]
+text = Humph! Your head is always in the clouds! Will you please listen to me next time?!
+
+[dialog_1df]
+text = Ha! That's all you've got?! Get ready for THIS!
+
+[dialog_1e0]
+text = ZZZ ZZZ ZZZ ZZZ  ... <marin> ... <marin> ...
+
+[dialog_1e1]
+text = Yes, it's that lazy walrus! Shall we give him a little surprise?
+ask = Yes  No...
+
+[dialog_1e2]
+text = Aha ha ha!  Wow! He certainly woke with a start!
+
+[dialog_1e3]
+text = Hunh?  Oh, he's calling me... It's the same as always... Ha ha!
+
+[dialog_1e4]
+text = You're right, it would be mean to wake him up now! Let's let him sleep some more!
+
+[dialog_1e5]
+text = #####, I'm going to the Animal Village!  Please drop by, okay?
+
+[dialog_1e6]
+text = Arfh! Arfh! Arf!  <marin>  <marin>!  <marin>   <marin>! ..... <link>??
+
+[dialog_1e7]
+text = It's no use, little buddy!  A fish took my hook... I keep casting my line into the water, but I haven't got a bite... I thought this would happen...
+
+[dialog_1e8]
+text = Oh! What is that you have in your hand?  It's not a fishing hook, is it?  You had better let me have it.  I'll give you my next catch if you let me have it...
+ask = Okay No
+
+[dialog_1e9]
+text = Keep your eyes open and watch a pro at work.
+
+[dialog_1ea]
+text = You should be more kind to me! I thought we were buddies!
+
+[dialog_1eb]
+text = My, that's a BIIIIG one!
+
+[dialog_1ec]
+text = The <fishhook> became a necklace <bra>! L-l-lucky!
+
+[dialog_1ed]
+text = I can't wait to see what I'll catch next!
+
+[dialog_1ee]
+text = My husband is lost in the woods! Please go find him!
+
+[dialog_1ef]
+text = Hey, you can see me?! You must have a magnify- ing glass. I'm not a trouble maker. I just want to live in peace.
+
+[dialog_1f0]
+text = When I was swim- ming in the bay, the waves took a very important necklace from around my neck! If you find it, I will let you take a scale from my tail!
+
+[dialog_1f1]
+text = I have already looked around here!
+
+[dialog_1f2]
+text = Ahh!  That's it! That's my neck- lace!  Give it! Give it back!  I will give you a scale as I said!
+ask = Give Keep
+
+[dialog_1f3]
+text = Promise!  You'll only take one!
+
+[dialog_1f4]
+text = You are heart- less and cruel!
+
+[dialog_1f5]
+text = You returned the necklace <bra> and got a scale <scale> of the mermaid's tail.  How will you use this?
+
+[dialog_1f6]
+text = I'll call this 'I Was Very Afraid.' Smile!
+
+[dialog_1f7]
+text = An artist once asked me to pose for him, and he wanted a scale, too...  Can the legend of the Magnifying Lens be true...?
+
+[dialog_1f8]
+text = Hi there! It's me, the photo- grapher! You say Zora is in the house? I HAVE to take a picture of that. I'll call it 'I Found Zora.'
+
+[dialog_1f9]
+text = Richard's Villa
+
+[dialog_1fa]
+text = Kanalet Castle 10 Min. <right> <up>
+
+[dialog_1fb]
+text = Kanalet Castle 5 Min. <right>
+
+[dialog_1fc]
+text = Kanalet Castle 50 Paces <up>
+
+[dialog_1fd]
+text = 'BRRING! BRRING!  BRRING! CLICK! Yeees!  It's the Bucket Mouse! Thanks for call- ing! ...Well... CLICK!'  ??? ... You must have dialed a wrong number...
+
+[dialog_1fe]
+text = Oh!  It's a big one!  And it has a Piece of Heart, too!  You get a 20 Rupee prize on top of that! Try again?
+ask = Yes  No
+
+[dialog_1ff]
+text = Oh!  It's a big one!  And it has a Piece of Heart, too!  You have completed another Heart Container!  On top of that, you get a 20 Rupee prize! Want to try again?
+ask = Yes  No
+
+[dialog_200]
+text = 'How To Handle    Your Shield    Like A Pro!' Read this book?
+ask = YES  NO
+
+[dialog_201]
+text = 'If you hold the Button down, you can defend your- self from enemy attacks, and you can flip some enemies, too... Besides the standard shield there is also a mirrored variety which can defend against beams!'
+
+[dialog_202]
+text = 'Selecting The    Item That's   Right For You' Read this book?
+ask = YES  NO
+
+[dialog_203]
+text = 'You can select your favorite item for the A and B Buttons on the Sub-Screen. Using different items, you can fight without a sword!  Try many different things to find what's right for you!'
+
+[dialog_204]
+text = 'Auto Map and Memo Guide Book' Read this book?
+ask = YES  NO
+
+[dialog_205]
+text = 'You can see an island map by pressing the SELECT Button. The dark parts of the map are places you have not yet visited. Move the cursor and press the A Button to get more information about an area, or to replay the message you got there...'  Ahhh! How convenient!
+
+[dialog_206]
+text = 'Secrets Of The  Whirling Blade' Read this book?
+ask = YES  NO
+
+[dialog_207]
+text = 'The Whirling Blade technique has been handed down from gener- ation to gener- ation by the family of the hero. To use it, hold down the Sword Button and build up your power.  When you have enough, you can release the Button!  Can you master this?'
+
+[dialog_208]
+text = 'The Properties   Of Warp Holes' Read this book?
+ask = YES  NO
+
+[dialog_209]
+text = 'There are some Warp Holes on Koholint Island. You can warp to and fro using these holes.  If you jump into the Warp Hole at which you arrived, you will go to the next one in the sequence.  You can only warp to a hole you have seen with your own eyes...'
+
+[dialog_20a]
+text = 'Fun With Bombs' Read this book?
+ask = YES  NO
+
+[dialog_20b]
+text = 'After you put a Bomb down, you can pick it up by pressing the Button again. You can then throw it by pushing the Button one more time.  Did you know that?'
+
+[dialog_20c]
+text = 'Atlas Of Koholint Island' You can move the cursor and look up the name of a place...  Do you want to look at this map?
+ask = Look Don't
+
+[dialog_20d]
+text = 'Dark Secrets   And Mysteries    Of Koholint' Do you really want to read it?
+ask = YES  NO
+
+[dialog_20e]
+text = Gasp! Wha-What's this! ... ... You can't read the tiny print without the aid of a magnifying glass...
+
+[dialog_20f]
+text = ...my grave... ...take me... ...my grave...
+
+[dialog_210]
+text = ...my grave... ...take me... ...my grave...
+
+[dialog_211]
+text = ...the house...  ...take me... ...the house... ...at the bay...
+
+[dialog_212]
+text = ...N-N-No!... ...N-not there!
+
+[dialog_213]
+text = ...Here!...    ...enter...  ...my house...
+
+[dialog_214]
+text = ...Nostalgia...  ...unchanged...  ...boo hoo...
+
+[dialog_215]
+text = ...Enough...  ...cemetery...   ...take me...  ...my grave...
+
+[dialog_216]
+text = ...Thank you...  ...a jar... ...in my home... ...look inside.. ...bye...bye...
+
+[dialog_217]
+text = Round and round, the passageways of the Egg... <left> <left> <up> <right> <right> <up> <left> <up> ??  ...Hmmmmmm, this book reeks of secrets...
+
+[dialog_218]
+text = Round and round, the passageways of the Egg... <right> <up> <up> <right> <up> <up> <right> <up> ??  ...Hmmmmmm, this book reeks of secrets...
+
+[dialog_219]
+text = Round and round, the passageways of the Egg... <left> <up> <right> <up> <left> <up> <right> <up> ??  ...Hmmmmmm, this book reeks of secrets...
+
+[dialog_21a]
+text = Round and round, the passageways of the Egg... <right> <right> <right> <right> <up> <up> <up> <up> ??  ...Hmmmmmm, this book reeks of secrets...
+
+[dialog_21b]
+text = ...You're late! I thought you'd never come back!
+
+[dialog_21c]
+text = ...EEEK!  You're hurt!  Arrrgh! Don't be so reckless!
+
+[dialog_21d]
+text = #####! You're back!  Are you hurt?
+
+[dialog_21e]
+text = ...You idiot! I told you this would happen... Eh?!  What?  I didn't say any- thing, really!
+
+[dialog_21f]
+text = Hey buddy!  It's serious!  Yeah, really serious!! Yeah, it is! The Moblins came to the village! Yeah, that's right!  A whole gang of Moblins! Then... It's for real!  They all went to the house...  Yeah, that house, and then they did something at Bow Wow's house!! It was a really bad scene, with the M-m-moblins! So, I mean, ahh! ... ... ... ... ... ... ... ... It might be faster to find out for yourself what happened!
+
+[dialog_220]
+text = Hey buddy!  It's serious!  Yeah, really serious!! Yeah, it is! The Moblins came to the village! Yeah, that's right!  A whole gang of Moblins! Then... It's for real!  They all went to the house...  Yeah, that house, and then they did something at Bow Wow's house!! It was a really bad scene, with the M-m-moblins! So, I mean, ahh! ... ... ... ... ... ... ... ... It might be faster to find out for yourself what happened!
+
+[dialog_221]
+text = I found a good item washed up on the beach... I'll trade it to you for what you have in your B Button...
+ask = Okay No
+
+[dialog_222]
+text = Okay, let's do it!  When you don't want the Boomerang any more, come back!
+
+[dialog_223]
+text = Oh, yeah, uh... okay, whatever.
+
+[dialog_224]
+text = You got the Boomerang in exchange for the item you had.
+
+[dialog_225]
+text = Give me back the Boomerang, I beg you! I'll return the item you gave to me!
+ask = Okay Not Now
+
+[dialog_226]
+text = The item came back to you. You returned the Boomerang.
+
+[dialog_227]
+text = Ah... Don't give me that item... How about some- thing else?
+
+[dialog_228]
+text = 'BRRING! BRRING! Ya, it's Ulrira! You haven't found the 5 Golden Leaves? Keep an eye on the ones you have. Someone might try and take 'em! Bye! CLICK!'
+
+[dialog_229]
+text = 'BRRING! BRRING! Ya, it's Ulrira! You haven't found the 5 Golden Leaves? Try bombing sus- picious places. Hope that helps. Bye! CLICK!'
+
+[dialog_22a]
+text = 'BRRING! BRRING! Ya, it's Ulrira! You haven't found the 5 Golden Leaves? Go scare that crow by the castle and see if that helps! Bye! CLICK!'
+
+[dialog_22b]
+text = 'The Travels of #####' Do you want to look at your album?
+ask = Look Don't
+
+[dialog_22c]
+text = Which picture would you like to see? Use <dpad> to select, then press the A Button!
+
+[dialog_22d]
+text = You are near the Eagle's Tower. Beware of the bird!
+
+[dialog_22e]
+text = Hi, #####. You know I love to take pictures. Wouldn't this old castle make a great photo?
+
+[dialog_22f]
+text = Hunh?  A keyhole here?  It says, 'Tale Keyhole'
+
+[dialog_230]
+text = Hunh?  A keyhole here?  It says, 'Tale Keyhole'
+
+[dialog_231]
+text = Hunh?  A keyhole here?  It says, 'Slime Keyhole'
+
+[dialog_232]
+text = Hunh?  A keyhole here?  It says, 'Angler Keyhole'
+
+[dialog_233]
+text = Hunh?  A keyhole here?  It says, 'Bird Keyhole'
+
+[dialog_234]
+text = Hunh?  A keyhole here?  It says, 'Face Keyhole'
+
+[dialog_235]
+text = Somebody, HELP!
+
+[dialog_236]
+text = Hey!  #####! Some monsters put me up here! What should I do?!  I'm afraid of heights!!
+
+[dialog_237]
+text = Yow!  That was a surprise! #####, thank you!
+
+[dialog_238]
+text = ... ... ... ... ... ... ... ... Say... #####...
+
+[dialog_239]
+text = Uhh... I don't know how to say this... but...
+
+[dialog_23a]
+text = Hunh?!  Tarin??! ... ... ... ... Uh... Nevermind, I... I gotta go!
+
+[dialog_23b]
+text = MAAAAAAARINNNN!!
+
+[dialog_23c]
+text = Nothing yet?! I grow tired of waiting. I want those Golden Leaves delivered soon! Courage like this deserves a photo, don't you think?
+
+[dialog_23d]
+text = Hey, Marin and #####! Are you taking pictures? You should take pictures of everyone, including me.
+
+[dialog_23e]
+text = I use this to take pictures. Are you ready? Say 'mushroom!'
+
+[dialog_23f]
+text = OK, I'm done. I'll go home now.
+
+[dialog_240]
+text = 'BRRING! BRRING! This is Ulrira! Oh, I heard from grandma that there is some- thing hidden behind the falls in the Tal Tal Mountains.  Does that help?  Bye! CLICK!'
+
+[dialog_241]
+text = 'BRRING! BRRING! Ulrira here... Yes, when I was just a lad, I recall seeing a high tower in the mountains! You should go there!  Is that helpful for you? Bye! CLICK!'
+
+[dialog_242]
+text = 'BRRING! BRRING! Hello, this is Ulrira speaking! #####, it's time for you to face the Egg on Mt. Tamaranch!  Be careful, #####! Bye!  CLICK!'
+
+[dialog_243]
+text = 'BRRING! BRRING! This is Ulrira! You're lost in the Egg?  Hmmmm. No sir, I can't help you on that one.  How about the library? And hey, don't stop calling me because I didn't know one little answer!  CLICK!'
+
+[dialog_244]
+text = 'BRRING! BRRING! Ulrira at your service!  Oh? You should take BowWow home now, Madam MeowMeow would appreciate it! Bye! CLICK!'
+
+[dialog_245]
+text = 'BRRING! BRRING! Yeah, this is Ulrira!  You are starting to like music, eh? Well, a frog named Mamu, who lives in the Signpost Maze, might know some new songs, but he charges a lot to play them! Bye!  CLICK!'
+
+[dialog_246]
+text = 'BRRING! BRRING! Hi, it's Ulrira! You are doing great!  Your efforts will end soon... By the way, have you visited the Hen House on the mountain?  There is a cave nearby with something important in it. Bye!  CLICK!'
+
+[dialog_247]
+text = 'BRRING! BRRING! Ulrira speaking! Are your enemies too strong for you?  In that case, you better collect all the Seashells...Just believe in your- self and do your best!  CLICK!'
+
+[dialog_248]
+text = 'BRRING! BRRING! Ulrira here! ... Go for it! You're almost there! I'm pull- ing for you! Bye!  CLICK!'
+
+[dialog_249]
+text = Go ahead and take a picture of me. Any angle you like!
+
+[dialog_24a]
+text = Yarna Desert? There's a way to get there to the south, but you might not be able to get through if that lazy walrus is in the way!
+
+[dialog_24b]
+text = Ahhh... Sigh... On such a nice day, we need a song from Marin!
+
+[dialog_24c]
+text = Hey! Did ya know Animal Village and Mabe Village are sister cities?  Yes, even though they aren't large enough to be called cities... Anyway, I heard from a very good source that they have a Dream Shrine in Mabe, and that it has something good inside...  Is that true?
+
+[dialog_24d]
+text = I can't go to Mabe Village because of all the monsters. I hope Marin is all right.
+
+[dialog_24e]
+text = Have you heard of the Flying Rooster?  They say it lived in Mabe Village a long time ago... I wonder if it's true...
+
+[dialog_24f]
+text = Aaaah, Little Marin... I want her to come back again...Her song is the best...
+
+[dialog_250]
+text = I dreamed that I turned into a carrot last night...  What an odd dream...
+
+[dialog_251]
+text = Eh?  How can an animal talk? How?  Hey, I'm just a rabbit, so I don't know!
+
+[dialog_252]
+text = Ahhh!  It's her! Little Marin!!
+
+[dialog_253]
+text = If you have no courage,then you have no strength. Gravestones won't move for cowards.
+
+[dialog_254]
+text = I'm not afraid. I just decided to wait at home.
+
+[dialog_255]
+text = This is my first walk with you, #####.
+
+[dialog_256]
+text = . . . . .
+
+[dialog_257]
+text = This cliff will be our secret place.
+
+[dialog_258]
+text = Aren't you going to say anything?
+
+[dialog_259]
+text = Oh how I love pictures! Why don't you take a picture when no one is around? You can call it . . .
+
+[dialog_25a]
+text = You've got the Blue Clothes! Your damage will be reduced by half!
+
+[dialog_25b]
+text = You've got the Red Clothes! Your body is full of energy!
+
+[dialog_25c]
+text = Red for offense, blue for defense. Which do you choose?
+ask = RED  BLUE
+
+[dialog_25d]
+text = Are you sure?
+ask = YES  NO
+
+[dialog_25e]
+text = The fairy queen is waiting for you.
+
+[dialog_25f]
+text = Do you have the powder? If not, you must go back.
+
+[dialog_260]
+text = Our colors are never the same! If I am red, he is blue! If he is red, I am blue! What color is my cloth?
+ask = Red  Blue
+
+[dialog_261]
+text = BOO! I am no weakling! Your pitiful sword is no match for me!
+
+[dialog_262]
+text = I am sorry, but this is the Color Dungeon. Only those with the power of color may enter. If you can tell who wears red and who wears blue, you may enter. Farewell.
+
+[dialog_263]
+text = Here is your clue. Make all the red blue.
+
+[dialog_264]
+text = No,  no. Take a closer look and try again.
+
+[dialog_265]
+text = Don't tell anyone.
+
+[dialog_266]
+text = Do you want to read this book?
+ask = YES  NO
+
+[dialog_267]
+text = New world of color under the 5 gravestones.    3<up>  4<right>  5<up>    2<left>  1<down> Try with all your might. Open a new path! Whoever is worthy receives the power of color. I wonder what the world of color is?
+
+[dialog_268]
+text = Welcome, #####. I admire you for coming this far. I will give you the power of color. If you want offense, choose red. If you want defense choose blue. Which power do you want?
+ask = RED  BLUE
+
+[dialog_269]
+text = You fool! Your sword won't work! Try something else!
+
+[dialog_26a]
+text = What a greedy fool! You want more power?! A buffoon like you might as well give up and go home!
+
+[dialog_26b]
+text = Relax and close your eyes.
+
+[dialog_26c]
+text = I will now take you out.
+
+[dialog_26d]
+text = Blue is safe. Yellow is caution. Red is danger.
+
+[dialog_26e]
+text = Yellow is caution. Red is danger,Take your time.
+
+[dialog_26f]
+text = Blue. Start over. Yellow is caution. Red is danger.
+
+[dialog_270]
+text = Hey, that looks great! I'll call it '##### Plays With BowWow!' Now get closer to BowWow!
+
+[dialog_271]
+text = Grrrr!
+
+[dialog_272]
+text = #####, get closer!
+
+[dialog_273]
+text = Grrrr! Grrrr!!
+
+[dialog_274]
+text = Much closer! OK, I'm ready. Smile!
+
+[dialog_275]
+text = Grrrr! Grrrr!! GRRRR!
+
+[dialog_276]
+text = Ha ha ha! Do it! Do it!  Do it moooore! ... ... Hunh?  No, it's nothing... I didn't mean it.
+
+[dialog_277]
+text = Not very good... Eh?  What?  Did I say something? No, you're hear- ing things...
+
+[dialog_278]
+text = #####, do you always look in other people's drawers?
+
+[dialog_279]
+text = Great!  Dig it! Dig it!  Dig to the center of the earth!!
+
+[dialog_27a]
+text = Whew!  What a surprise!
+
+[dialog_27b]
+text = Ohh!  I'm sorry! Are you okay?! #####?
+
+[dialog_27c]
+text = Hey Mon!
+
+[dialog_27d]
+text = You know me, I like short names the best...
+
+[dialog_27e]
+text = It can display millions of polygons!
+
+[dialog_27f]
+text = I definitely need it, as soon as possible!
+
+[dialog_280]
+text = LAVRCUGRHHCVUGUG
+
+[dialog_281]
+text = RCVUGIMRHUCOBIXW
+
+[dialog_282]
+text = UGCRFBCVMILIMRZA
+
+[dialog_283]
+text = LUHHAMMEMIJUFLBW
+
+[dialog_284]
+text = MCCVMCIWCVABIQUF
+
+[dialog_285]
+text = WKCBKMCVMIAUHHTM
+
+[dialog_286]
+text = KCVMQMOHMCWGLUGP
+
+[dialog_287]
+text = HBEMIAVRCUGIMRHC
+
+[dialog_288]
+text = BVMFMDCPVRHHMFKM
+
+[dialog_289]
+text = IAUHHTMVRILVBAME
+
+[dialog_28a]
+text = OMIAMAUHHGWPPMML
+
+[dialog_28b]
+text = OWL HINT 12
+
+[dialog_28c]
+text = OWL HINT 13
+
+[dialog_28d]
+text = OWL HINT 14
+
+[dialog_28e]
+text = OWL HINT 15
+
+[dialog_28f]
+text = OWL HINT 16
+
+[dialog_290]
+text = OWL HINT 17
+
+[dialog_291]
+text = OWL HINT 18
+
+[dialog_292]
+text = OWL HINT 19
+
+[dialog_293]
+text = OWL HINT 20
+
+[dialog_294]
+ask = YES  NO
+text = Let's take a picture!
+
+[dialog_295]
+ask = Yes  No way
+text = No picture?! Are you pullin' my leg?
+
+[dialog_296]
+text = What a bummer!
+
+[dialog_297]
+text = Beautiful! I'll call this 'Game Over.'
+
+[dialog_298]
+text = What's your name, young man? #####? Well here's your album, #####. Give it a look before you leave!
+
+[dialog_299]
+text = Let's see if we can fill that album!
+
+[dialog_29a]
+text = 11 shots left! What kind of picture should I take?
+
+[dialog_29b]
+text = 10 shots left! What kind of picture should I take?
+
+[dialog_29c]
+text = 9 shots left! What kind of picture should I take?
+
+[dialog_29d]
+text = 8 shots left! What kind of picture should I take?
+
+[dialog_29e]
+text = 7 shots left! What kind of picture should I take?
+
+[dialog_29f]
+text = 6 shots left! What kind of picture should I take?
+
+[dialog_2a0]
+text = 5 shots left! What kind of picture should I take?
+
+[dialog_2a1]
+text = 4 shots left! What kind of picture should I take?
+
+[dialog_2a2]
+text = 3 shots left! What kind of picture should I take?
+
+[dialog_2a3]
+text = 2 shots left! What kind of picture should I take?
+
+[dialog_2a4]
+text = 1 shots left! What kind of picture should I take?
+
+[dialog_2a5]
+text = Oh no! You're out of film! Don't forget to look at your album!
+
+[dialog_2a6]
+text = Hi! I'm the photographer! What a great photo moment! I'll call this 'Heads Up!'
+
+[dialog_2a7]
+text = Hey, this represents your adventures perfectly!
+
+[dialog_2a8]
+text = I'll call this one 'Close Call.' Hmm.
+
+[dialog_2a9]
+text = I'm too close.
+
+[dialog_2aa]
+text = I should back up .
+
+[dialog_2ab]
+text = Aaaaaah!
+
+[dialog_2ac]
+text = I'm going back to the store. Bye!
+
+[dialog_2ad]
+text = See me later, when you're alone!
+
+[dialog_2ae]
+text = Are you sure?
+ask = YES  NO
+
+[dialog_2af]
+text = Ah how I love pictures. Hey, #####! What are you doing here?
+

@@ -1,0 +1,90 @@
+{
+    "maps": [
+        {
+            "fileName": "room274.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 128
+        },
+        {
+            "fileName": "room273.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 256
+        },
+        {
+            "fileName": "room271.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 384
+        },
+        {
+            "fileName": "room272.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 512
+        },
+        {
+            "fileName": "room276.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 640
+        },
+        {
+            "fileName": "room275.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 768
+        },
+        {
+            "fileName": "room270.json",
+            "height": 128,
+            "width": 160,
+            "x": 480,
+            "y": 896
+        },
+        {
+            "fileName": "room238.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 768
+        },
+        {
+            "fileName": "room254.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 640
+        },
+        {
+            "fileName": "room246.json",
+            "height": 128,
+            "width": 160,
+            "x": 320,
+            "y": 896
+        },
+        {
+            "fileName": "room232.json",
+            "height": 128,
+            "width": 160,
+            "x": 640,
+            "y": 896
+        },
+        {
+            "fileName": "room256.json",
+            "height": 128,
+            "width": 160,
+            "x": 640,
+            "y": 768
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
